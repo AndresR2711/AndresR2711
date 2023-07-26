@@ -1,3 +1,4 @@
+
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" />
     <h1 align="center">Hola👋, soy Andrés.
@@ -25,10 +26,7 @@
 
 </div>
 
-
 ---
-
-
 <div id="header" align="center">
   <h3>📊Mis estadisticas:</h3>
   <br>
