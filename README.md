@@ -28,10 +28,15 @@
 
 ---
 
-### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
+<div id="header" align="center">
+  <h3>📊Mis estadisticas:</h3>
+  <br>
+    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndresR2711&theme=dark&hide_border=true&border_radius=40&locale=es)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresR2711&show_icons=true&theme=dark&hide_border=true&border_radius=40&locale=es)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresR2711&hide_progress=false&theme=dark&hide_border=true&border_radius=40&locale=es)
+    </div>
+
